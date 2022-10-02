@@ -71,6 +71,9 @@ else
             kubeapi-enable)
                   kubeapiEnable="true"
                   ;;
+            no-auto-update)
+                  enableUpdate="false"
+                  ;;
             no-color)
                   noColor
                   ;;

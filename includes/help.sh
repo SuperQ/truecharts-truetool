@@ -12,6 +12,8 @@ echo "--helm-enable    | Enables Helm command access on SCALE"
 echo "--apt-enable     | Enables Apt command access on SCALE"
 echo "--kubeapi-enable | Enables external access to Kuberntes API port"
 echo "--dns            | List all of your applications DNS names and their web ports"
+echo "--no-auto-update | Disables git-based automatic updates"
+echo "--no-color       | Disables showing colors in terminal output, usefull for SCALE Email output"
 echo
 echo -e "${BWhite}Update Options${Color_Off}"
 echo "-U | Update all applications, ignores versions"
