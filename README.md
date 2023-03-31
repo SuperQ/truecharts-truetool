@@ -72,7 +72,7 @@ cd /mnt/pool/scripts
 **Git Clone truetool**
 
 ```
-git clone https://github.com/truecharts/truetool.git
+git clone https://github.com/SuperQ/truecharts-truetool.git
 ```
 
 **Change Directory to truetool folder**
